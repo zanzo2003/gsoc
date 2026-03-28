@@ -10,7 +10,12 @@ Currently going through the contributing docs.
 
 Excited to learn from this experience...
 
-[Github](https://github.com/OluwagbeminiyiA)    | [LinkedIn](https://www.linkedin.com/in/gbeminiyi-agbedejobi/)    | [X](https://x.com/gbeminiyi_a)     | [personal website](https://www.oluwagbeminiyi.codes)
+| Links                                                         |
+|---------------------------------------------------------------|
+| [Github](https://github.com/OluwagbeminiyiA)                  |
+| [LinkedIn](https://www.linkedin.com/in/gbeminiyi-agbedejobi/) |
+| [X](https://x.com/gbeminiyi_a)                                |
+| [personal website](https://www.oluwagbeminiyi.codes)          |
 
 ## Tasks
 
@@ -51,12 +56,16 @@ Excited to learn from this experience...
 ### Learning and research
 
 - [x] Create a new `## Research` section in your personal file inside `2026/participants/`, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
-- [ ] Write a short blog post describing something you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository.
+- [x] Write a short blog post describing something you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository.
+
+### BLOG POST
+
+[How I Started Contributing to Wagtail for GSoC 2026](https://dev.to/gbeminiyi/how-i-started-contributing-to-wagtail-for-gsoc-2026-2hof)
+
 
 ### Django and Wagtail fundamentals
 
 
-- [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/stable/intro/), until part 7.
 - [X] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
 
